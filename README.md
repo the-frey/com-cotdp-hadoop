@@ -4,7 +4,9 @@ Forked from the original repo [here](https://github.com/cotdp/com-cotdp-hadoop).
 
 The source is under the Apache License 2.0 and can freely be reused (see LICENSE).
 
-This has been updated to bump the dependencies so that it works with the current version of Databricks, or hosted Databricks. 
+This has been updated to bump the dependencies so that it works with the current version of Databricks, or hosted Databricks.
+
+Some interfaces currently need re-implementing and the tests need to be updated.
 
 ## Build
 
